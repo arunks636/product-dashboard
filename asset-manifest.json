@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/product-dashboard/static/css/main.5cfcf47a.chunk.css",
+    "main.js": "/product-dashboard/static/js/main.6bd340db.chunk.js",
+    "main.js.map": "/product-dashboard/static/js/main.6bd340db.chunk.js.map",
+    "runtime-main.js": "/product-dashboard/static/js/runtime-main.bf5efb20.js",
+    "runtime-main.js.map": "/product-dashboard/static/js/runtime-main.bf5efb20.js.map",
+    "static/js/2.d3d1af1b.chunk.js": "/product-dashboard/static/js/2.d3d1af1b.chunk.js",
+    "static/js/2.d3d1af1b.chunk.js.map": "/product-dashboard/static/js/2.d3d1af1b.chunk.js.map",
+    "index.html": "/product-dashboard/index.html",
+    "static/css/main.5cfcf47a.chunk.css.map": "/product-dashboard/static/css/main.5cfcf47a.chunk.css.map",
+    "static/js/2.d3d1af1b.chunk.js.LICENSE.txt": "/product-dashboard/static/js/2.d3d1af1b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/product-dashboard/static/media/Roboto-Regular.f2807d34.ttf",
+    "static/media/cart.05c7e031.svg": "/product-dashboard/static/media/cart.05c7e031.svg",
+    "static/media/check.4b849b29.svg": "/product-dashboard/static/media/check.4b849b29.svg",
+    "static/media/grid.2422734a.svg": "/product-dashboard/static/media/grid.2422734a.svg",
+    "static/media/info.970b8db2.svg": "/product-dashboard/static/media/info.970b8db2.svg",
+    "static/media/like-ol.f3d8806d.svg": "/product-dashboard/static/media/like-ol.f3d8806d.svg",
+    "static/media/logo.e9012297.svg": "/product-dashboard/static/media/logo.e9012297.svg",
+    "static/media/notification.b3872880.svg": "/product-dashboard/static/media/notification.b3872880.svg",
+    "static/media/Header.css": "/product-dashboard/static/media/search.2fd0a989.svg",
+    "static/media/user.b6063e33.svg": "/product-dashboard/static/media/user.b6063e33.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf5efb20.js",
+    "static/js/2.d3d1af1b.chunk.js",
+    "static/css/main.5cfcf47a.chunk.css",
+    "static/js/main.6bd340db.chunk.js"
+  ]
+}
